@@ -12,6 +12,7 @@ namespace BranchingTest
             Console.WriteLine("I prefer ketchup, mustard is bad");
 
             Console.WriteLine("Siracha is the best condiment.");
+            Console.WriteLine("My favorite Liquor is Gin");
 
         }
     }
