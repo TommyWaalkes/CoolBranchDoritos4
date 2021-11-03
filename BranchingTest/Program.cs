@@ -10,6 +10,9 @@ namespace BranchingTest
             Console.WriteLine("Salve munde!");
             Console.WriteLine("I want chicken nuggets.");
             Console.WriteLine("I prefer ketchup, mustard is bad");
+
+            Console.WriteLine("Siracha is the best condiment.");
+
         }
     }
 }
