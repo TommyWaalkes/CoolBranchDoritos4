@@ -13,6 +13,8 @@ namespace BranchingTest
 
             Console.WriteLine("Siracha is the best condiment.");
             Console.WriteLine("My favorite Liquor is Gin");
+            Console.WriteLine("Pineapple should be pizza");
+
 
         }
     }
